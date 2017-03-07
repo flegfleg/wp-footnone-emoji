@@ -1,0 +1,14 @@
+// Footnone Emoji CSS
+
+.footnotes a[href^="#"] {
+  visibility: hidden;
+  position: relative;
+}
+
+.footnotes a[href^="#"]:after {
+  visibility: visible;
+  position: absolute;
+  top: 0;
+  left: 0;
+  content: "\21A9 \FE0E";
+}
