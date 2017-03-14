@@ -1,7 +1,7 @@
 <?php
 /**
 * Plugin Name: Footnone Emoji
-* Version: 1.0
+* Version: 1.0.1
 * Plugin URI: http://www.macht-medien.de
 * Description: Prevents mobile safari from rendering the leftwards arrow with hook character as an emoji.
 * Author: Florian Egermann
