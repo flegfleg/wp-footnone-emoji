@@ -1,13 +1,13 @@
 <?php
-   /*
-   Plugin Name: Footnone Emoji
-   Plugin URI: http://www.macht-medien.de
-   Description: Prevents mobile safari from rendering the leftwards arrow with hook character as an emoji.
-   Version: 1.0
-   Author: Florian Egermann
-   Author URI: http://www.fleg.de
-   License: GPL2
-   */
+/**
+* Plugin Name: Footnone Emoji
+* Version: 1.0
+* Plugin URI: http://www.macht-medien.de
+* Description: Prevents mobile safari from rendering the leftwards arrow with hook character as an emoji.
+* Author: Florian Egermann
+* Author URI: http://www.fleg.de
+* License: GPL2
+*/
   
 
 function flegfleg_footnone_emoji() {
